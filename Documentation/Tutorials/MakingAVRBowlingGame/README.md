@@ -147,7 +147,7 @@ We can now layout our bowling pin prefab into the standard ten pin formation. Le
 
 Create a new child `Empty` GameObject by first selecting the `Lane` GameObject in the Unity Hierarchy then selecting `Main Menu -> GameObjet -> Create Empty Child` and then change the `Transform` properties to:
 
-* Position: `X = 0, Y = 0.52, Z = 0`
+* Position: `X = 0, Y = 0.52, Z = 6`
 
 Rename the new `GameObject` to `Pins`.
 
